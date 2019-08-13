@@ -17,7 +17,7 @@ A full featured [Cookiecutter](https://cookiecutter.readthedocs.io) Python proje
 
 ## Glue Shell Script
 
-Coming soon....
+Coming soon...
 
 
 
