@@ -29,7 +29,8 @@ Special thanks to:
 
 [Andrew Elgert](https://github.com/elgertam) - [cookiecutter-pipenv](https://github.com/elgertam/cookiecutter-pipenv)
 
+Their work was used as a reference for this template.
+
 ## License
 
 Yet Another Cookiecutter Python Template is licensed under GNU GPLv3.
-
