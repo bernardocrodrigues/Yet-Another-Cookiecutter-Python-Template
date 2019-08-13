@@ -19,8 +19,17 @@ A full featured [Cookiecutter](https://cookiecutter.readthedocs.io) Python proje
 
 Coming soon...
 
-
-
 ## Acknowledgments 
 
 Special thanks to:
+
+[Chris Warrick](https://github.com/Kwpolska) - [python-project-template](https://github.com/elgertam/cookiecutter-pipenv)
+
+[Ionel Cristian Mărieș](https://github.com/ionelmc) - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary)
+
+[Andrew Elgert](https://github.com/elgertam) - [cookiecutter-pipenv](https://github.com/elgertam/cookiecutter-pipenv)
+
+## License
+
+Yet Another Cookiecutter Python Template is licensed under GNU GPLv3.
+
