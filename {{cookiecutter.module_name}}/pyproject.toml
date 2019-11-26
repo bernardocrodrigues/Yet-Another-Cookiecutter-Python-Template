@@ -1,17 +1,21 @@
 [tool.poetry]
 name = "{{cookiecutter.module_name}}"
-version = "0.1.2"
-description = ""
+version = "0.1.0"
+description = "{{cookiecutter.description}}"
 authors = ["{{cookiecutter.author}} <{{cookiecutter.email}}>"]
 license = "{{cookiecutter.license}}"
-# readme = 'README.rst'
-# homepage = "https://pendulum.eustace.io"
-# repository = "https://github.com/sdispater/pendulum"
-# documentation = "https://pendulum.eustace.io/docs"
-# keywords = ['datetime', 'date', 'time']
+
+# homepage = ""
+# repository = ""
+# documentation = ""
+# keywords = []
+# classifiers = [
+#     "Topic :: Software Development :: Build Tools",
+#     "Topic :: Software Development :: Libraries :: Python Modules"
+# ]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.7"

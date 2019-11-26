@@ -1,6 +1,7 @@
 {
-    "project_slug": "aaaa}",
-    "module": "ssss",
-    "module_name": "ssss",
-    "nome": "cccs"
+    "module_name": "default",
+    "author": "Foo Bar",
+    "email": "foo@bar.com",
+    "license": "GPL-3.0",
+    "description": "Lorem ipsum dolor sit amet.",
 } 

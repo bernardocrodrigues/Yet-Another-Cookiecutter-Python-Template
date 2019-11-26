@@ -1,2 +1,0 @@
- 
-jhdfhkdashfjkashfk {{cookiecutter.nome}}
