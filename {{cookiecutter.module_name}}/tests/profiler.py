@@ -2,7 +2,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath(
     os.path.join(os.path.dirname(__file__), '..')))
-import rounder
+import {{cookiecutter.module_name}}
 
 
-rounder.round(143.95498234)
+{{cookiecutter.module_name}}.main()

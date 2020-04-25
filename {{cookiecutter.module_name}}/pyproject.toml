@@ -1,6 +1,7 @@
 [tool.poetry]
 name = "{{cookiecutter.module_name}}"
 version = "0.1.0"
+readme = "README.rst"
 description = "{{cookiecutter.description}}"
 authors = ["{{cookiecutter.author}} <{{cookiecutter.email}}>"]
 license = "{{cookiecutter.license}}"
@@ -12,6 +13,10 @@ license = "{{cookiecutter.license}}"
 # classifiers = [
 #     "Topic :: Software Development :: Build Tools",
 #     "Topic :: Software Development :: Libraries :: Python Modules"
+# ]
+# packages = [
+#     { include = "mypackage" },
+#     { include = "extra_package/**/*.py" },
 # ]
 
 [tool.poetry.dependencies]
